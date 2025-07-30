@@ -1,0 +1,6 @@
+cmake
+libopenblas-dev
+liblapack-dev
+libsm6
+libxext6
+libxrender1
